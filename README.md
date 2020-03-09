@@ -1,2 +1,3 @@
-Java Source Code
-This is where my java projects are, feel free to clone or download for academic references<br>
+# NOTICE
+Feel free to clone or download for academic references. <br>
+MODELLED FOR MY UNIVERSITY ASSIGNMENT.
